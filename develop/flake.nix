@@ -11,6 +11,7 @@
   inputs.src-oauth-develop.ref   = "refs/heads/develop";
   inputs.src-oauth-develop.owner = "CORDEA";
   inputs.src-oauth-develop.repo  = "oauth";
+  inputs.src-oauth-develop.dir   = "";
   inputs.src-oauth-develop.type  = "github";
   
   inputs."sha1".owner = "nim-nix-pkgs";

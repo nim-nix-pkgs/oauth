@@ -11,6 +11,7 @@
   inputs.src-oauth-v0_8.ref   = "refs/tags/v0.8";
   inputs.src-oauth-v0_8.owner = "CORDEA";
   inputs.src-oauth-v0_8.repo  = "oauth";
+  inputs.src-oauth-v0_8.dir   = "";
   inputs.src-oauth-v0_8.type  = "github";
   
   inputs."sha1".owner = "nim-nix-pkgs";
